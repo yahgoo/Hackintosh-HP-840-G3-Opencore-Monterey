@@ -25,4 +25,4 @@ left and right USB ports including USB Type-C
 - Keyboard backlight (Fn + F3)
 - Touchpad including tap-to-click, scrolling, mouse buttons (can be disable with prt scr key)
 
-![Screenshot](https://github.com/yahgoo/Hackintosh-HP-840-G3-Opencore-Monterey/blob/main/img/Screenshot%202021-07-03%20at%203.15.42%20PM.png)
+![Screenshot](https://github.com/yahgoo/Hackintosh-HP-840-G3-Opencore-Monterey/blob/main/img/Screenshot%202021-10-27%20at%202.18.08%20PM.png)
