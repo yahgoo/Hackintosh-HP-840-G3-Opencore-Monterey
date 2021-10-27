@@ -5,6 +5,9 @@ InsanelyMac - Miliuco
 OSXLatitude - Jake Lo
 
 ## Changes
+27102021
+- Updated to OC 0.7.5 and latest kexts
+
 10092021
 - Updated to OC 0.7.3 and latest kexts
 
