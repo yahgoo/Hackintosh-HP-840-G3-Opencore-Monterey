@@ -37,14 +37,14 @@ Boot options:
 - Network (PXE) Boot = Disabled  
 Secure Boot Configuration:
 - "Legacy Support Enable and Secure Boot Disable"  
-System Options:
+System Options:  
 - Virtualization Technology (VTx) = Disabled (recommended, Enable also worked)
-- Virtualization Technology for Direct I/O (VTd) = Disabled (recommended, Enable also worked)
+- Virtualization Technology for Direct I/O (VTd) = Disabled (recommended, Enable also worked)  
 Built-In Device Options:  
 - Wake On LAN = Disabled
 - Video memory size = 64 MB
 - LAN/WLAN Auto Switching = Disabled
-- Fingerprint Device = Disabled
+- Fingerprint Device = Disabled  
 Power Management Options:  
 - Extended Idle Power States = Disabled
 - Deep sleep = You can keep this enabled
