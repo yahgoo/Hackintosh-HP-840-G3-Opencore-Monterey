@@ -32,20 +32,20 @@ left and right USB ports including USB Type-C
 
 ## Set bios settings as follows:
 Advanced tab:
-Boot options:
+Boot options:  
 - Fast Boot = Disabled
-- Network (PXE) Boot = Disabled
+- Network (PXE) Boot = Disabled  
 Secure Boot Configuration:
-- "Legacy Support Enable and Secure Boot Disable"
+- "Legacy Support Enable and Secure Boot Disable"  
 System Options:
 - Virtualization Technology (VTx) = Disabled (recommended, Enable also worked)
 - Virtualization Technology for Direct I/O (VTd) = Disabled (recommended, Enable also worked)
-Built-In Device Options:
+Built-In Device Options:  
 - Wake On LAN = Disabled
 - Video memory size = 64 MB
 - LAN/WLAN Auto Switching = Disabled
 - Fingerprint Device = Disabled
-Power Management Options:
+Power Management Options:  
 - Extended Idle Power States = Disabled
 - Deep sleep = You can keep this enabled
 - Wake when Lid is Opened = Enabled
