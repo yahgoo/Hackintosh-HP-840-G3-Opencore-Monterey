@@ -31,7 +31,7 @@ left and right USB ports including USB Type-C
 ![Screenshot](https://github.com/yahgoo/Hackintosh-HP-840-G3-Opencore-Monterey/blob/main/img/macOS%20Monterey%20with%20Purple%20iPad%20Mini%206.png)
 
 ## Set bios settings as follows:
-Advanced tab:
+Advanced tab:  
 Boot options:  
 - Fast Boot = Disabled
 - Network (PXE) Boot = Disabled  
