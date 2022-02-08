@@ -29,3 +29,24 @@ left and right USB ports including USB Type-C
 - Touchpad including tap-to-click, scrolling, mouse buttons (can be disable with prt scr key)
 
 ![Screenshot](https://github.com/yahgoo/Hackintosh-HP-840-G3-Opencore-Monterey/blob/main/img/macOS%20Monterey%20with%20Purple%20iPad%20Mini%206.png)
+
+## Set bios settings as follows:
+Advanced tab:
+Boot options:
+- Fast Boot = Disabled
+- Network (PXE) Boot = Disabled
+Secure Boot Configuration:
+- "Legacy Support Enable and Secure Boot Disable"
+System Options:
+- Virtualization Technology (VTx) = Disabled (recommended, Enable also worked)
+- Virtualization Technology for Direct I/O (VTd) = Disabled (recommended, Enable also worked)
+Built-In Device Options:
+- Wake On LAN = Disabled
+- Video memory size = 64 MB
+- LAN/WLAN Auto Switching = Disabled
+- Fingerprint Device = Disabled
+Power Management Options:
+- Extended Idle Power States = Disabled
+- Deep sleep = You can keep this enabled
+- Wake when Lid is Opened = Enabled
+- Wake on USB = Disabled
