@@ -15,7 +15,7 @@ OSXLatitude - Jake Lo
 10092021
 - Updated to OC 0.7.3 and latest kexts
 
-![Screenshot](https://github.com/yahgoo/Hackintosh-HP-840-G3-Opencore-Monterey/blob/main/img/macOS%20Monterey%2012_3%20with%20Purple%20iPad%20Mini%206.png)
+![Screenshot](https://github.com/yahgoo/Hackintosh-HP-840-G3-Opencore-Monterey/blob/main/img/dualOSon840G3.png)
 
 ## Working
 - Full graphics acceleration on Intel HD520 iGPU, including brightness control (F5 and F6)
@@ -32,7 +32,7 @@ left and right USB ports including USB Type-C
 - Keyboard backlight (Fn + F3)
 - Touchpad including tap-to-click, scrolling, mouse buttons (can be disable with prt scr key)
 
-![Screenshot](https://github.com/yahgoo/Hackintosh-HP-840-G3-Opencore-Monterey/blob/main/img/macOS%20Monterey%20with%20Purple%20iPad%20Mini%206.png)
+![Screenshot](https://github.com/yahgoo/Hackintosh-HP-840-G3-Opencore-Monterey/blob/main/img/macOS%20Monterey%2012_3%20with%20Purple%20iPad%20Mini%206.png)
 
 ## Set bios settings as follows:
 Advanced tab:  
