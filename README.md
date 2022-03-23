@@ -5,6 +5,10 @@ InsanelyMac - Miliuco
 OSXLatitude - Jake Lo
 
 ## Changes
+23032022
+- Updated to MacOS Monterey 12.3 with the long awaited Universal Control
+- Updated to OC 0.8.0 and latest kexts
+
 27102021
 - Updated to OC 0.7.5 and latest kexts
 
